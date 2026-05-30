@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Vert
+  - Rouge
+  - Bleu
+  - Jaune
+  - Violet
+  - Arrivee
+  - Fini
+  - Pomme
+  - Sol
+  - Panier
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CasseTete
+  - Water
+  - UI
+  - Pomme
+  - Panier
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 571804757
+    locked: 0
+  - name: Decor
+    uniqueID: 2214085005
+    locked: 0
+  - name: Gameplay
+    uniqueID: 679646187
+    locked: 0
+  - name: Items
+    uniqueID: 248408107
+    locked: 0
+  - name: CasseTete
+    uniqueID: 2331315617
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - CasseTete
